@@ -9,10 +9,11 @@ import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 
 const editUrl = (fileName) => `${siteMetadata.siteRepo}/blob/master/data/blog/${fileName}`
-const discussUrl = (slug) =>
-  `https://mobile.twitter.com/search?q=${encodeURIComponent(
-    `${siteMetadata.siteUrl}/blog/${slug}`
-  )}`
+const discussUrl = (slug) => {
+  const url = encodeURIComponent(`${siteMetadata.siteUrl}/blog/${slug}`)
+  const text = `@svandegar, je viens de lire cet article et ... %0A%0A`
+  return `https://twitter.com/intent/tweet?url=${url}&text=${text}`
+}
 
 const postDateTemplate = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }
 
