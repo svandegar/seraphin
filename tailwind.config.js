@@ -48,7 +48,7 @@ module.exports = {
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            color: theme('colors.secondary.700'),
+            color: theme('colors.secondary.800'),
             a: {
               color: theme('colors.primary.500'),
               '&:hover': {
@@ -117,18 +117,18 @@ module.exports = {
         },
         dark: {
           css: {
-            color: theme('colors.secondary.300'),
+            color: theme('colors.secondary.200'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.secondary.400'),
               '&:hover': {
-                color: `${theme('colors.primary.400')} !important`,
+                color: `${theme('colors.secondary.400')} !important`,
               },
-              code: { color: theme('colors.primary.400') },
+              code: { color: theme('colors.secondary.400') },
             },
             h1: {
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
-              color: theme('colors.secondary.100'),
+              color: theme('colors.secondary.300'),
             },
             h2: {
               fontWeight: '700',
@@ -144,14 +144,14 @@ module.exports = {
             },
             pre: {
               // Code blocks background
-              backgroundColor: theme('colors.primary.600'),
+              backgroundColor: theme('colors.primary.500'),
             },
             code: {
               color: theme('colors.secondary.400'),
               backgroundColor: theme('colors.primary.600'),
             },
             details: {
-              backgroundColor: theme('colors.secondary.800'),
+              backgroundColor: theme('colors.primary.600'),
             },
             hr: { borderColor: theme('colors.secondary.700') },
             'ol li::marker': {

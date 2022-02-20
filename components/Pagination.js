@@ -8,8 +8,8 @@ export default function Pagination({ totalPages, currentPage }) {
     <div className="space-y-2 pt-6 pb-8 md:space-y-5">
       <nav className="flex justify-between">
         {!prevPage && (
-          <button rel="previous" className="cursor-auto disabled:opacity-50" disabled={!prevPage}>
-            Previous
+          <button rel="previous" className="cursor-auto disabled:opacity-70" disabled={!prevPage}>
+            Précédent
           </button>
         )}
         {prevPage && (
@@ -22,7 +22,7 @@ export default function Pagination({ totalPages, currentPage }) {
         </span>
         {!nextPage && (
           <button rel="next" className="cursor-auto disabled:opacity-50" disabled={!nextPage}>
-            Next
+            Suivant
           </button>
         )}
         {nextPage && (

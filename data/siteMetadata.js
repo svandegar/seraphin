@@ -1,10 +1,10 @@
 const siteMetadata = {
   title: 'Séraphin',
   author: 'Séraphin Vandegar',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Séraphin Vandegar',
   description: "L'univers de Séraphin",
   language: 'fr-ca',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://seraphin.dev',
   siteRepo: 'https://github.com/svandegar/seraphin',
   siteLogo: '/static/images/logo.png',
