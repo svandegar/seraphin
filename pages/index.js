@@ -57,7 +57,7 @@ export default function Home({ posts }) {
                             ))}
                           </div>
                         </div>
-                        <div className="text-primary-100">{summary}</div>
+                        <div className="dark:text-primary-100">{summary}</div>
                       </div>
                       <div className="text-base font-medium leading-6">
                         <Link

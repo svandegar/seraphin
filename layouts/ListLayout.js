@@ -70,7 +70,7 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                         ))}
                       </div>
                     </div>
-                    <div className="text-primary-100">{summary}</div>
+                    <div className="dark:text-primary-100">{summary}</div>
                   </div>
                 </article>
               </li>
