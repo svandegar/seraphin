@@ -1,5 +1,4 @@
 import Link from '@/components/Link'
-import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import Image from '@/components/Image'
@@ -43,7 +42,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 </div>
               </dl>
               <div>
-                <PageTitle>{title}</PageTitle>
+                <h1>{title}</h1>
               </div>
             </div>
           </header>
@@ -101,9 +100,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
                 {tags && (
                   <div className="py-4 xl:py-8">
-                    <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                      Mots clés
-                    </h2>
+                    <h2>Mots clés</h2>
                     <div className="flex flex-wrap">
                       {tags.map((tag) => (
                         <Tag key={tag} text={tag} />
@@ -115,9 +112,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                   <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
                     {prev && (
                       <div>
-                        <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-primary-100">
-                          Article précédent
-                        </h2>
+                        <h2>Article précédent</h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:text-primary-200 dark:hover:text-primary-300">
                           <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
                         </div>
@@ -125,9 +120,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                     )}
                     {next && (
                       <div>
-                        <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-primary-100">
-                          Article suivant
-                        </h2>
+                        <h2>Article suivant</h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:text-primary-200 dark:hover:text-primary-300">
                           <Link href={`/blog/${next.slug}`}>{next.title}</Link>
                         </div>

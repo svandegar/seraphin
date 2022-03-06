@@ -18,7 +18,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['InterVariable', ...defaultTheme.fontFamily.sans],
+        sans: ['LexieReadable', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         primary: {
@@ -57,13 +57,14 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             h1: {
-              fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              fontWeight: '500',
+              fontSize: '2rem',
+              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.secondary.900'),
             },
             h2: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
+              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.secondary.900'),
             },
             h3: {
@@ -117,34 +118,34 @@ module.exports = {
         },
         dark: {
           css: {
-            color: theme('colors.secondary.200'),
+            color: theme('colors.primary.0'),
             a: {
               color: theme('colors.secondary.400'),
               '&:hover': {
-                color: `${theme('colors.secondary.400')} !important`,
+                color: `${theme('colors.secondary.300')} !important`,
               },
               code: { color: theme('colors.secondary.400') },
             },
             h1: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
-              color: theme('colors.secondary.300'),
+              letterSpacing: theme('letterSpacing.wide'),
+              color: theme('colors.primary.0'),
             },
             h2: {
               fontWeight: '700',
-              letterSpacing: theme('letterSpacing.tight'),
-              color: theme('colors.secondary.100'),
+              letterSpacing: theme('letterSpacing.wide'),
+              color: theme('colors.secondary.300'),
             },
             h3: {
               fontWeight: '600',
-              color: theme('colors.secondary.100'),
+              color: theme('colors.secondary.300'),
             },
             'h4,h5,h6': {
               color: theme('colors.secondary.100'),
             },
             pre: {
               // Code blocks background
-              backgroundColor: theme('colors.primary.500'),
+              backgroundColor: theme('colors.primary.4s00'),
             },
             code: {
               color: theme('colors.secondary.400'),

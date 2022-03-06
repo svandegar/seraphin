@@ -37,7 +37,7 @@ pre[class*='language-'] {
   line-height: 25px;
   letter-spacing: 0.5px;
   text-shadow: 0 1px #222245;
-  background-color: #1e3842 !important;
+  /*background-color: #05384F !important;*/
 }
 
 pre[class*='language-']::-moz-selection,

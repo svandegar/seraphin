@@ -1,5 +1,4 @@
 import Link from '@/components/Link'
-import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
 import siteMetadata from '@/data/siteMetadata'
@@ -27,7 +26,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 </div>
               </dl>
               <div>
-                <PageTitle>{title}</PageTitle>
+                <h1>{title}</h1>
               </div>
             </div>
           </header>

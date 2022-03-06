@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+@font-face {
+  font-family: 'LexieReadable';
+  font-weight: 400;
+  src: local('LexieReadable-Regular'),
+    url(../public/static/fonts/LexieReadable/LexieReadable-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'LexieReadable';
+  font-weight: 500;
+  src: local('LexieReadable-Bold'),
+    url(../public/static/fonts/LexieReadable/LexieReadable-Bold.ttf) format('truetype');
+}
+
+h1 {
+  font-size: 2rem;
+}
+
 .task-list-item::before {
   @apply hidden;
 }
