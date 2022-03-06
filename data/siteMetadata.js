@@ -8,7 +8,7 @@ const siteMetadata = {
   siteUrl: 'https://seraphin.dev',
   siteRepo: 'https://github.com/svandegar/seraphin',
   siteLogo: '/static/images/logo.png',
-  image: '/static/images/avatar.png',
+  image: '/static/images/seraphin.jpg',
   socialBanner: '/static/images/twitter-card.png',
   email: 'seraphin@aynils.ca',
   github: 'https://github.com/svandegar',
@@ -27,7 +27,7 @@ const siteMetadata = {
   newsletter: {
     // supports mailchimp, buttondown, convertkit, klaviyo
     // Please add your .env file and modify it according to your selection
-    provider: 'buttondown',
+    provider: '',
   },
   comment: {
     // If you want to use a commenting system other than giscus you have to add it to the

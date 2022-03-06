@@ -57,18 +57,12 @@ module.exports = {
               code: { color: theme('colors.primary.400') },
             },
             h1: {
-              fontWeight: '500',
-              fontSize: '2rem',
-              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.secondary.900'),
             },
             h2: {
-              fontWeight: '700',
-              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.secondary.900'),
             },
             h3: {
-              fontWeight: '600',
               color: theme('colors.secondary.900'),
             },
             'h4,h5,h6': {
@@ -127,17 +121,12 @@ module.exports = {
               code: { color: theme('colors.secondary.400') },
             },
             h1: {
-              fontWeight: '700',
-              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.primary.0'),
             },
             h2: {
-              fontWeight: '700',
-              letterSpacing: theme('letterSpacing.wide'),
               color: theme('colors.secondary.300'),
             },
             h3: {
-              fontWeight: '600',
               color: theme('colors.secondary.300'),
             },
             'h4,h5,h6': {
