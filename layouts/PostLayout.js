@@ -31,19 +31,19 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
         <div className="xl:divide-y xl:divide-gray-200 xl:dark:divide-gray-700">
           <header className="pt-6 xl:pb-6">
             <div className="space-y-1 text-center">
+              <div>
+                <h1 className="first-letter:text-blue-900">{title}</h1>
+              </div>
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Publié le</dt>
                   <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                    <time dateTime={date}>
+                    <time className={'capitalize'} dateTime={date}>
                       {new Date(date).toLocaleDateString(siteMetadata.locale, postDateTemplate)}
                     </time>
                   </dd>
                 </div>
               </dl>
-              <div>
-                <h1>{title}</h1>
-              </div>
             </div>
           </header>
           <div
@@ -101,7 +101,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
                 {tags && (
                   <div className="py-4 xl:py-8">
                     <h2>Mots clés</h2>
-                    <div className="flex flex-wrap">
+                    <div className="mt-4 flex flex-wrap">
                       {tags.map((tag) => (
                         <Tag key={tag} text={tag} />
                       ))}
