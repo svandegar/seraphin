@@ -11,7 +11,7 @@ export default function Projects() {
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1>Projects</h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Showcase your projects with a hero image (16 x 9)
+            Voici quelques projets sur lesquels j'ai travaillé.
           </p>
         </div>
         <div className="container py-12">

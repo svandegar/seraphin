@@ -32,7 +32,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           <header className="pt-6 xl:pb-6">
             <div className="space-y-1 text-center">
               <div>
-                <h1 className="first-letter:text-blue-900">{title}</h1>
+                <h1>{title}</h1>
               </div>
               <dl className="space-y-10">
                 <div>
