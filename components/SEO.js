@@ -24,6 +24,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={twImage} />
+      <link rel="canonical" href={`${siteMetadata.siteUrl}${router.asPath}`} />
     </Head>
   )
 }
@@ -137,7 +138,6 @@ export const BlogSEO = ({ authorDetails, title, summary, date, lastmod, url, ima
       <Head>
         {date && <meta property="article:published_time" content={publishedAt} />}
         {lastmod && <meta property="article:modified_time" content={modifiedAt} />}
-        <link rel="canonical" href={`${siteMetadata.siteUrl}${router.asPath}`} />
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{
