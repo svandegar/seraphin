@@ -1,9 +1,6 @@
 ---
 name: Séraphin Vandegar
 avatar: /static/images/seraphin.jpg
-
-[//]:# (occupation: Développeur et entrepreneur)
-company: Aynils
 email: seraphin@aynils.ca
 twitter: https://twitter.com/svandegar
 linkedin: https://www.linkedin.com/in/seraphinvandegar
