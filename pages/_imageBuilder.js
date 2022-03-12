@@ -1,4 +1,4 @@
-export default function imageBuilder() {
+export default function _imageBuilder() {
   return (
     <>
       <meta name="robots" content="noindex" />
