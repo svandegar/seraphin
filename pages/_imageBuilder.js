@@ -17,11 +17,11 @@ export default function _imageBuilder() {
           Le minimalisme entrepreneurial : qu’est-ce que c’est?
         </h1>
         <p className="mt-auto text-2xl text-secondary-500">
-          seraphin.dev: le blog qui parle de tech éthique et d'entreprenariat responsable.
+          seraphin.dev: le blog qui parle de tech éthique et d'entrepreneuriat responsable.
         </p>
         {/*<h1 className="mt-16 text-center text-7xl">seraphin.dev</h1>*/}
         {/*<h1 className="mt-16 text-center text-5xl leading-relaxed text-secondary-500">*/}
-        {/*  Le blog qui parle de tech éthique et d'entreprenariat responsable.*/}
+        {/*  Le blog qui parle de tech éthique et d'entrepreneuriat responsable.*/}
         {/*</h1>*/}
       </div>
     </>
