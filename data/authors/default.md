@@ -11,13 +11,13 @@ github: https://github.com/svandegar
 
 Salut! Moi, c'est Séraphin. Je suis Belge et je vis au Canada depuis 2018.
 
-Je joue du piano et de la guitare, j'aime être dehors et faire du sport. Je brasse ma propre bière et je construis des meubles en bois.
-
 Je bosse dans la tech depuis 2010. J'ai occupé des fonctions variées du support technique à la gestion de projets, avant de me former pour devenir développeur.
 
 Il y a deux ans, j'ai créé [Aynils](https://aynils.ca/fr) afin de venir en aide au secteur communautaire canadien. Au quotidien, je partage mon temps entre conseil et développement d'applications pour le secteur communautaire canadien.
 
 J'anime un podcast sur le sujet de la reconversion professionnelle : [Changement de programme](https://changementdeprogramme.com).
+
+Sur mon temps libre, je joue de la guitare et du piano. J'aime être dehors et faire du sport. Je brasse ma propre bière et je construis des meubles en bois.
 
 Je suis particulièrement sensible aux questions de protection de l'environnement, de justice sociale et d'entrepreneuriat responsable.
 
@@ -35,7 +35,7 @@ J'espère que ce blog me permettra de rencontrer des personnes sensibles aux mê
 
 ### Design
 
-- Le design du blog est dérivé du thème [Tailwind Nextjs Theme](https://github.com/timlrx/tailwind-nextjs-starter-blog)
+- Le design du blog est dérivé du thème [Tailwind Nextjs Theme](https://github.com/timlrx/tailwind-nextjs-starter-blog).
 - La police employée sur le site est [Lexie Readable](http://www.k-type.com/fonts/lexie-readable/), une police créée dans un but d'accessibilité et de lisibilité. Elle permet notamment de rendre le site plus accessible pour les personnes atteintes de dyslexie.
 
 ### Tech
