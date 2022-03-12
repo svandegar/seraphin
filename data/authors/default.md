@@ -7,6 +7,8 @@ linkedin: https://www.linkedin.com/in/seraphinvandegar
 github: https://github.com/svandegar
 ---
 
+#
+
 Séraphin est Belge et vit au Canada depuis 2018.
 Il joue du piano et de la guitare. Il aime être dehors et faire du sport.
 
