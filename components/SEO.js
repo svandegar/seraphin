@@ -6,7 +6,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage }) => {
   const router = useRouter()
   const currentRoute = router.asPath
   const canonicalUrl = `${siteMetadata.siteUrl}${
-    currentRoute.endsWith('/') ? currentRoute.slice(0, -1) : currentRoute
+    currentRoute.endsWith('/') ? currentRoute : currentRoute + '/'
   }`
   return (
     <Head>

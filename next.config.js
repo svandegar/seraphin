@@ -57,7 +57,7 @@ module.exports = withBundleAnalyzer({
     loader: 'imgix',
     path: 'https://aynils.imgix.net',
   },
-  trailingSlash: false,
+  trailingSlash: true,
   reactStrictMode: true,
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   eslint: {
