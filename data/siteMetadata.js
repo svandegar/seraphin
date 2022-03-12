@@ -9,7 +9,7 @@ const siteMetadata = {
   siteRepo: 'https://github.com/svandegar/seraphin',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/seraphin.jpg',
-  socialBanner: '/static/images/twitter-card.png',
+  socialBanner: '/static/images/default-card.png',
   email: 'seraphin@aynils.ca',
   github: 'https://github.com/svandegar',
   twitter: 'https://twitter.com/svandegar',
