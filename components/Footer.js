@@ -21,8 +21,6 @@ export default function Footer() {
           <div>{` • `}</div>
           <Link href="/">{siteMetadata.title}</Link>
         </div>
-        <div id="wcb" className="carbonbadge wcb-d mt-2"></div>
-        <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
       </div>
     </footer>
   )
