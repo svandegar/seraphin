@@ -4,6 +4,10 @@ import siteMetadata from '@/data/siteMetadata'
 
 const CommonSEO = ({ title, description, ogType, ogImage, twImage }) => {
   const router = useRouter()
+  const currentRoute = router.asPath
+  const canonicalUrl = `${siteMetadata.siteUrl}${
+    currentRoute.endsWith('/') ? currentRoute.slice(0, -1) : currentRoute
+  }`
   return (
     <Head>
       <title>{title}</title>
@@ -24,7 +28,7 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage }) => {
       <meta name="twitter:title" content={title} />
       <meta name="twitter:description" content={description} />
       <meta name="twitter:image" content={twImage} />
-      <link rel="canonical" href={`${siteMetadata.siteUrl}${router.asPath}`} />
+      <link rel="canonical" href={canonicalUrl} />
     </Head>
   )
 }
