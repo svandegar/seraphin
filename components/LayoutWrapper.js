@@ -5,18 +5,17 @@ import SectionContainer from './SectionContainer'
 import Footer from './Footer'
 import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
-import Image from '@/components/Image'
 
 const LayoutWrapper = ({ children }) => {
   return (
     <SectionContainer>
       <div className="flex h-screen flex-col justify-between">
-        <header className="flex items-center justify-between py-10">
+        <header className="flex items-center justify-between pt-10 pb-2">
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
               <div className="flex items-center justify-between">
                 {typeof siteMetadata.headerTitle === 'string' ? (
-                  <div className="hidden h-6 text-2xl font-semibold sm:block">
+                  <div className="hidden h-6 text-2xl font-semibold md:block">
                     {siteMetadata.headerTitle}
                   </div>
                 ) : (
@@ -37,10 +36,14 @@ const LayoutWrapper = ({ children }) => {
                 </Link>
               ))}
             </div>
+
             <ThemeSwitch />
             <MobileNav />
           </div>
         </header>
+        <p className="hidden text-lg text-gray-500 dark:text-gray-400 md:block">
+          {siteMetadata.description}
+        </p>
         <main className="mb-auto">{children}</main>
         <Footer />
       </div>
