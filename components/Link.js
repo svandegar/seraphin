@@ -17,10 +17,10 @@ const CustomLink = ({ href, ...rest }) => {
     return <a href={href} {...rest} />
   }
 
-  if (rest.refer) {
-    return <a target="_blank" rel="noopener" href={href} {...rest} />
+  if (rest.norefer) {
+    return <a target="_blank" rel="noopener noreferrer" href={href} {...rest} />
   }
-  return <a target="_blank" rel="noopener noreferrer" href={href} {...rest} />
+  return <a target="_blank" rel="noopener" href={href} {...rest} />
 }
 
 export default CustomLink
