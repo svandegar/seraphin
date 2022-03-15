@@ -10,7 +10,7 @@ const Card = ({ title, description, imgSrc, href }) => (
     >
       {imgSrc &&
         (href ? (
-          <Link href={href} aria-label={`Link to ${title}`}>
+          <Link href={href} aria-label={`Link to ${title}`} refer={true}>
             <Image
               alt={title}
               src={imgSrc}
@@ -42,6 +42,7 @@ const Card = ({ title, description, imgSrc, href }) => (
         {href && (
           <Link
             href={href}
+            refer={true}
             className="text-base font-medium leading-6 text-secondary-500 hover:text-secondary-400 dark:text-secondary-400 dark:hover:text-secondary-500"
             aria-label={`Link to ${title}`}
           >
