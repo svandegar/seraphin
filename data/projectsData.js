@@ -17,6 +17,12 @@ const projectsData = [
     imgSrc: '/static/images/projects/estimer.png',
     href: 'https://estimer.com',
   },
+  {
+    title: 'KPMA 101',
+    description: `Application mobile de formation à destination des mineurs d'or dans le Yukon`,
+    imgSrc: '/static/images/projects/kpma.png',
+    href: 'https://www.kpma.ca/kpma-101/',
+  },
 ]
 
 export default projectsData
