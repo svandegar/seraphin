@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Séraphin',
   author: 'Séraphin Vandegar',
   headerTitle: 'Séraphin Vandegar',
-  description: "Le blog qui parle de tech éthique et d'entrepreneuriat responsable",
+  description: "Je parle de tech éthique et d'entrepreneuriat responsable",
   language: 'fr-ca',
   theme: 'system', // system, dark or light
   siteUrl: 'https://seraphin.dev',
