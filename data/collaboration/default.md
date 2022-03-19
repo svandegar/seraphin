@@ -37,3 +37,23 @@ Ma méthodologie est la suivante:
 4. **Test étendus** : dès les premières phases de développement, l'application est testée afin d'en assurer la fiabilité;
 5. **Validation et tests d'utilisation** : tout au long du projet, des tests avec votre équipe et les utilisateurs et utilisatrices sont organisés pour s'assurer que le produit répond aux attentes;
 6. **Garantie, support et maintenance** : tous mes contrats incluent une période de garantie et des heures de support et maintenance pour au moins un an. Vous ne vous retrouvez pas seul·e une fois le projet terminé.
+
+## Mes engagements
+
+Si on travaille ensemble, vous pouvez vous attendre à voir une grande attention à ces éléments.
+
+### Accessibilité
+
+Je respecte le principe d'[accessibilité universelle](https://www.altergo.ca/fr/accessibilite-universelle/quest-ce-que-laccessibilite-universelle/) : en rendant une solution accessible aux personnes porteuses de handicaps, on la rend plus accessibles à toutes et à tous.
+
+Je respecte au minimum la norme AA du [WCAG2](https://www.w3.org/WAI/standards-guidelines/wcag/)
+
+### Eco-responsabilité
+
+J'accorde une grande attention aux performances des applications. En plus d'améliorer l'accessibilité pour toutes les personnes qui ne bénificient pas d'appareils dernier cri ou n'ont pas accès à une connexion à haut débit, les performances ont un impact direct sur la consommation d'énergie.
+
+Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'hébergment des données) mais aussi qui respectent des normes environementales comme l'utilisation d'énergie renouvelable.
+
+### Expérience d'utilisation
+
+Je développe des solutions intuitives et facile à utiliser. Des tests d'utilisation sont toujours prévu, afin de s'assurer que les personnes utilisant la solution le font sans peine. C'est à la solution à s'adapter aux utilisateurs et utilisatrices et non l'inverse.
