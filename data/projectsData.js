@@ -23,6 +23,12 @@ const projectsData = [
     imgSrc: '/static/images/projects/kpma.png',
     href: 'https://www.kpma.ca/kpma-101/',
   },
+  {
+    title: 'SmartDocs',
+    description: `Génération de documents juridiques pour particuliers et petites entreprises`,
+    imgSrc: '/static/images/projects/smartdocs.png',
+    href: 'https://www.qiiro.eu/',
+  },
 ]
 
 export default projectsData
