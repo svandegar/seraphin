@@ -2,7 +2,7 @@ const projectsData = [
   {
     title: 'La Bibli',
     description: `Bibliothèque en ligne. Partagez vos livres simplement.`,
-    imgSrc: '/static/images/projects/labibli_3.jng',
+    imgSrc: '/static/images/projects/labibli_3.png',
     href: 'https://labibli.com',
   },
   {
@@ -19,7 +19,7 @@ const projectsData = [
   },
   {
     title: 'KPMA 101',
-    description: `Application mobile de formation à destination des mineurs d'or dans le Yukon`,
+    description: `Application iOS et Android de formation à destination des mineurs d'or dans le Yukon`,
     imgSrc: '/static/images/projects/kpma.png',
     href: 'https://www.kpma.ca/kpma-101/',
   },
