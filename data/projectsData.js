@@ -11,6 +11,12 @@ const projectsData = [
     imgSrc: '/static/images/projects/feuilledetemps.jpg',
     href: 'https://feuilledetemps.ca',
   },
+  {
+    title: 'Estimer.com',
+    description: `Le seule site d'estimation immobilère respectueux de votre vie privée.`,
+    imgSrc: '/static/images/projects/estimer.png',
+    href: 'https://estimer.com',
+  },
 ]
 
 export default projectsData
