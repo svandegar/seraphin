@@ -19,7 +19,7 @@ Ce qui veut dire que si vous représentez une compagnie pétrolière ou une banq
 
 Par contre, si votre projet à un **impact positif sur la société**, je serais heureux de pouvoir vous proposer mes services.
 
-### CTO ad iterim
+### CTO ad interim
 
 Je vous accompagne dans le lancement de votre projet. Ensemble, nous définissons la roadmap initiale et faisons les choix techniques et architecturaux nécessaires pour poser des bases solides.  
 Je développe seul ou en équipe les POC (preuves de faisabilité) et MVP (première version viable du produit).  
