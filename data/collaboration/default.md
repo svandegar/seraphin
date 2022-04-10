@@ -56,4 +56,4 @@ Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'h
 
 ### Expérience d'utilisation
 
-Je développe des solutions intuitives et facile à utiliser. Des tests d'utilisation sont toujours prévu, afin de s'assurer que les personnes utilisant la solution le font sans peine. C'est à la solution à s'adapter aux utilisateurs et utilisatrices et non l'inverse.
+Je développe des solutions intuitives et faciles à utiliser. Des tests d'utilisation sont toujours prévus, afin de s'assurer que les personnes utilisant la solution le font sans peine. C'est à la solution à s'adapter aux utilisateurs et utilisatrices et non l'inverse.
