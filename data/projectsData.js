@@ -13,7 +13,7 @@ const projectsData = [
   },
   {
     title: 'Estimer.com',
-    description: `Le seul site d'estimation immobilère respectueux de votre vie privée.`,
+    description: `Le seul site d'estimation immobilière respectueux de votre vie privée.`,
     imgSrc: '/static/images/projects/estimer.png',
     href: 'https://estimer.com',
   },
