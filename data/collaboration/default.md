@@ -17,7 +17,7 @@ J'offre des services pour des client·es et projets qui respectent mes valeurs :
 
 Ce qui veut dire que si vous représentez une compagnie pétrolière ou une banque d'investissement, il y a peu de chances qu'on travaille ensemble. (Irving, pas la peine de demander, c'est non!)
 
-Par contre, si votre projet à un **impact positif sur la société**, je serais heureux de pouvoir vous proposer mes services.
+En revanche, si votre projet à un **impact positif sur la société**, je serais heureux de pouvoir vous proposer mes services.
 
 ### CTO ad interim
 
@@ -32,7 +32,7 @@ Je développe des applications seul ou en équipe, en fonction de la taille du p
 Ma méthodologie est la suivante:
 
 1. **Définition du besoin** : j'organise des ateliers avec votre équipe ou vos clients pour comprendre le contexte et cadrer les besoins;
-2. **Démonstration de faisabilité** : je dévelope une version minimale du produit pour en démontrer la faisabilité;
+2. **Démonstration de faisabilité** : je développe une version minimale du produit pour en démontrer la faisabilité;
 3. **Développements itératifs** : je développe la solution finale par blocs fonctionnels, ce qui permet des aller-retours réguliers entre votre équipe et moi. Ceci assure un alignement parfait en tout temps;
 4. **Test étendus** : dès les premières phases de développement, l'application est testée afin d'en assurer la fiabilité;
 5. **Validation et tests d'utilisation** : tout au long du projet, des tests avec votre équipe et les utilisateurs et utilisatrices sont organisés pour s'assurer que le produit répond aux attentes;
@@ -48,11 +48,11 @@ Je respecte le principe d'[accessibilité universelle](https://www.altergo.ca/fr
 
 Je respecte au minimum la norme AA du [WCAG2](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-### Eco-responsabilité
+### Éco-responsabilité
 
-J'accorde une grande attention aux performances des applications. En plus d'améliorer l'accessibilité pour toutes les personnes qui ne bénificient pas d'appareils dernier cri ou n'ont pas accès à une connexion à haut débit, les performances ont un impact direct sur la consommation d'énergie.
+J'accorde une grande attention aux performances des applications. En plus d'améliorer l'accessibilité pour toutes les personnes qui ne bénéficient pas d'appareils dernier cri ou n'ont pas accès à une connexion à haut débit, les performances ont un impact direct sur la consommation d'énergie.
 
-Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'hébergment des données) mais aussi qui respectent des normes environementales comme l'utilisation d'énergie renouvelable.
+Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'd'hébergement des données) mais aussi qui respectent des normes environnementales comme l'utilisation d'énergie renouvelable.
 
 ### Expérience d'utilisation
 
