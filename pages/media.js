@@ -9,7 +9,7 @@ export default function Media() {
       <PageSEO
         title={`Media - ${siteMetadata.author}`}
         description={
-          "Ici se trouvent des articles que j'ai écrit ailleurs et des interviews auxquelles j'ai participé."
+          "Ici se trouvent des articles que j'ai écrit et des interviews auxquelles j'ai participé."
         }
       />
       <div className="divide-y divide-gray-200 dark:divide-gray-700">
