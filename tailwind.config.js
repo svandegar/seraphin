@@ -45,14 +45,19 @@ module.exports = {
         },
         // gray: colors.neutral,
       },
+      // variants: {
+      //   extend: {
+      //     typography: ['dark'],
+      //   },
+      // },
       typography: (theme) => ({
         DEFAULT: {
           css: {
             color: theme('colors.secondary.800'),
             a: {
-              color: theme('colors.primary.500'),
+              color: theme('colors.secondary.500'),
               '&:hover': {
-                color: `${theme('colors.primary.600')} !important`,
+                color: `${theme('colors.secondary.600')} !important`,
               },
               code: { color: theme('colors.primary.400') },
             },
@@ -114,7 +119,7 @@ module.exports = {
           css: {
             color: theme('colors.primary.0'),
             a: {
-              color: theme('colors.secondary.400'),
+              color: `${theme('colors.secondary.400')} !important`,
               '&:hover': {
                 color: `${theme('colors.secondary.300')} !important`,
               },
@@ -124,7 +129,7 @@ module.exports = {
               color: theme('colors.primary.0'),
             },
             h2: {
-              color: theme('colors.secondary.300'),
+              color: theme('colors.primary.100'),
             },
             h3: {
               color: theme('colors.secondary.300'),
@@ -134,7 +139,7 @@ module.exports = {
             },
             pre: {
               // Code blocks background
-              backgroundColor: theme('colors.primary.4s00'),
+              backgroundColor: theme('colors.primary.400'),
             },
             code: {
               color: theme('colors.secondary.400'),

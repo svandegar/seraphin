@@ -8,7 +8,7 @@ const projectsData = [
     href: 'https://julieunefois.be/creer-son-entreprise-au-canada/',
   },
   {
-    title: 'Lancer des SaaS dans pour le secteur associatif.',
+    title: 'Lancer des SaaS pour le secteur associatif.',
     description: `<p>Dans son podcast, Anthony Heukmes invite des développeurs et développeuses qui ont choisi de lancer un produit à petite échelle. Ce qui leur permet de rester libres et indépendant·es, au lieu de chercher à lever des fonds pour peut-être un jour gagner des millions.</p>
                       <p>On y parle de mon parcours, depuis le support client chez Proximus jusqu'à mes premières lignes de code chez Opinum S.A. et de ma passion pour la relation avec les client·es.</p>
                       <p>Puis on parle un peu de mon travail avec Aynils de conseil en informatique pour le millieu associatif canadien.</p>
