@@ -129,7 +129,7 @@ module.exports = {
               color: theme('colors.primary.0'),
             },
             h2: {
-              color: theme('colors.primary.100'),
+              color: theme('colors.secondary.200'),
             },
             h3: {
               color: theme('colors.secondary.300'),
