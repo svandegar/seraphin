@@ -41,7 +41,7 @@ const LayoutWrapper = ({ children }) => {
             <MobileNav />
           </div>
         </header>
-        <p className="hidden text-lg text-gray-500 dark:text-gray-400 md:block">
+        <p className="mt-5 mb-5 hidden text-xl text-secondary-600 dark:text-secondary-200 md:block">
           {siteMetadata.description}
         </p>
         <main className="mb-auto">{children}</main>
