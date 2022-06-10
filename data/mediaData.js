@@ -8,6 +8,14 @@ const projectsData = [
     href: 'https://julieunefois.be/creer-son-entreprise-au-canada/',
   },
   {
+    title: 'NB365: Seraphin Vandegar Of Aynils In Moncton.',
+    description: `
+                    <p>Article en anglais dans un journal du Nouveau-Brunswick.</p>
+                     <p>Cet article fait partie d'une série destinée à mettre en avant les entreprises locales.</p>`,
+    imgSrc: '/static/images/media/huddle-today.jpeg',
+    href: 'https://huddle.today/2021/05/19/nb365-seraphin-vandegar-of-aynils-in-moncton/',
+  },
+  {
     title: 'Lancer des SaaS pour le secteur associatif.',
     description: `<p>Dans son podcast, Anthony Heukmes invite des développeurs et développeuses qui ont choisi de lancer un produit à petite échelle. Ce qui leur permet de rester libres et indépendant·es, au lieu de chercher à lever des fonds pour peut-être un jour gagner des millions.</p>
                       <p>On y parle de mon parcours, depuis le support client chez Proximus jusqu'à mes premières lignes de code chez Opinum S.A. et de ma passion pour la relation avec les client·es.</p>
@@ -30,14 +38,7 @@ const projectsData = [
     imgSrc: '/static/images/media/javascript-academy.jpg',
     href: 'https://www.youtube.com/watch?v=nYhIlHLNJpI&t=3s',
   },
-  {
-    title: 'NB365: Seraphin Vandegar Of Aynils In Moncton.',
-    description: `
-                    <p>Article en anglais dans un journal du Nouveau-Brunswick.</p>
-                     <p>Cet article fait partie d'une série destinée à mettre en avant les entreprises locales.</p>`,
-    imgSrc: '/static/images/media/huddle-today.jpeg',
-    href: 'https://huddle.today/2021/05/19/nb365-seraphin-vandegar-of-aynils-in-moncton/',
-  },
+
   {
     title: 'Une vie de freelance au Canada.',
     description: `

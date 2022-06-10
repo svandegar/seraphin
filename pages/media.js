@@ -16,7 +16,7 @@ export default function Media() {
         <div className="space-y-2 pt-6 pb-8 md:space-y-5">
           <h1>Media</h1>
           <p className="text-lg leading-7 text-gray-500 dark:text-gray-400">
-            Ici se trouvent des articles que j'ai écrit ailleurs et des interviews auxquelles j'ai
+            Vous trouverez ici des articles que j'ai écrit et des interviews auxquelles j'ai
             participé.
           </p>
         </div>
