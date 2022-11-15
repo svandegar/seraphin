@@ -44,7 +44,7 @@ Si on travaille ensemble, vous pouvez vous attendre à voir une grande attention
 
 ### Accessibilité
 
-Je respecte le principe d'[accessibilité universelle](https://www.altergo.ca/fr/accessibilite-universelle/quest-ce-que-laccessibilite-universelle/) : en rendant une solution accessible aux personnes porteuses de handicaps, on la rend plus accessibles à toutes et à tous.
+Je respecte le principe d'[accessibilité universelle](https://seraphin.dev/blog/accessibilite-profite-a-tout-le-monde/) : en rendant une solution accessible aux personnes porteuses de handicaps, on la rend plus accessibles à toutes et à tous.
 
 Je respecte au minimum la norme AA du [WCAG2](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
@@ -52,7 +52,7 @@ Je respecte au minimum la norme AA du [WCAG2](https://www.w3.org/WAI/standards-g
 
 J'accorde une grande attention aux performances des applications. En plus d'améliorer l'accessibilité pour toutes les personnes qui ne bénéficient pas d'appareils dernier cri ou n'ont pas accès à une connexion à haut débit, les performances ont un impact direct sur la consommation d'énergie.
 
-Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'd'hébergement des données) mais aussi qui respectent des normes environnementales comme l'utilisation d'énergie renouvelable.
+Je choisis des hébergeurs respectant vos impératifs spécifiques (ex: lieu d'hébergement des données) mais aussi qui respectent des normes environnementales comme l'utilisation d'énergie renouvelable.
 
 ### Expérience d'utilisation
 
