@@ -13,6 +13,7 @@ const siteMetadata = {
   email: 'seraphin@aynils.ca',
   github: 'https://github.com/svandegar',
   twitter: 'https://twitter.com/svandegar',
+  mastodon: 'https://noc.social/@seraphin',
   linkedin: 'https://www.linkedin.com/in/seraphinvandegar',
   locale: 'fr-CA',
   analytics: {
