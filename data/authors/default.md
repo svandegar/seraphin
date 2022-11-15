@@ -9,15 +9,15 @@ github: https://github.com/svandegar
 
 ## À propos de moi
 
-Salut! Moi, c'est Séraphin. Je suis Belge et je vis au Canada depuis 2018.
+Allô! Moi, c'est Séraphin. Je suis Belge et je vis au Canada depuis 2018.
 
 Je bosse dans la tech depuis 2010. J'ai occupé des fonctions variées du support technique à la gestion de projets, avant de me former pour devenir développeur.
 
-Il y a deux ans, j'ai créé [Aynils](https://aynils.ca/fr) afin de venir en aide au secteur communautaire canadien. Au quotidien, je partage mon temps entre conseil et développement d'applications pour le secteur communautaire canadien.
+Il y a deux ans, j'ai créé [Aynils](https://aynils.ca/fr) afin de venir en aide au secteur communautaire canadien. Au quotidien, je partage mon temps entre conseil et développement d'applications pour les organismes sans but lucratif.
 
 J'anime un podcast sur le sujet de la reconversion professionnelle : [Changement de programme](https://changementdeprogramme.com).
 
-Sur mon temps libre, je joue de la guitare et du piano. J'aime être dehors et faire du sport. Je brasse ma propre bière et je construis des meubles en bois.
+Sur mon temps libre, je joue de la guitare et du piano. J'aime être dehors et faire du sport. Je brasse ma propre bière et je bricole toutes sortes de choses à la maison.
 
 Je suis particulièrement sensible aux questions de protection de l'environnement, de justice sociale et d'entrepreneuriat responsable.
 
@@ -27,7 +27,7 @@ J'ai décidé de créer ce blog pour partager mon parcours d'apprentissage sur d
 
 Je pense qu'il est primordial de créer du contenu en français et je souhaite apporter ma pierre à l'édifice.
 
-Aussi, je crois qu'on a besoin de modèles de réussite différents de ceux généralement mis en avant par les médias.
+Aussi, je crois qu'on a besoin de modèles de réussite différents de ceux généralement mis en avant par les médias et les réseaux sociaux.
 
 J'espère que ce blog me permettra de rencontrer des personnes sensibles aux mêmes sujets et d'initier des conversations intéressantes.
 
