@@ -20,11 +20,9 @@ Ce qui veut dire que si vous représentez une compagnie pétrolière ou une banq
 
 En revanche, si votre projet à un **impact positif sur la société**, je serais heureux de pouvoir vous proposer mes services.
 
-### CTO ad interim
+### Accompagnement numérique
 
-Je vous accompagne dans le lancement de votre projet. Ensemble, nous définissons la roadmap initiale et faisons les choix techniques et architecturaux nécessaires pour poser des bases solides.  
-Je développe seul ou en équipe les POC (preuves de faisabilité) et MVP (première version viable du produit).  
-Je vous accompagne ensuite dans le recrutement de l'équipe qui travaillera sur l'industrialisation du produit.
+À travers mon entreprise [Aynils](https://aynils.ca/fr), j'accompagne les organismes sans but lucratif dans leur utilisation du numérique via des formations, du conseil et le développement d'outils comme [Feuille de temps](https://feuilledetemps.ca) et [La Bibli](https://labibli.com)
 
 ### Développement d'applications web et mobiles
 
@@ -45,7 +43,7 @@ Si on travaille ensemble, vous pouvez vous attendre à voir une grande attention
 
 ### Accessibilité
 
-Je respecte le principe d'[accessibilité universelle](https://seraphin.dev/blog/accessibilite-profite-a-tout-le-monde/) : en rendant une solution accessible aux personnes porteuses de handicaps, on la rend plus accessibles à toutes et à tous.
+Je place le principe d'[accessibilité universelle](https://seraphin.dev/blog/accessibilite-profite-a-tout-le-monde/) au coeur de mon travail : en rendant une solution accessible aux personnes en situation de handicap, on la rend plus accessibles à toutes et à tous.
 
 Je respecte au minimum la norme AA du [WCAG2](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
