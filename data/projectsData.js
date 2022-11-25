@@ -12,12 +12,6 @@ const projectsData = [
     href: 'https://feuilledetemps.ca',
   },
   {
-    title: 'Estimer.com',
-    description: `Le seul site d'estimation immobilière respectueux de votre vie privée.`,
-    imgSrc: '/static/images/projects/estimer.png',
-    href: 'https://estimer.com',
-  },
-  {
     title: 'KPMA 101',
     description: `Application iOS et Android de formation à destination des mineurs d'or dans le Yukon`,
     imgSrc: '/static/images/projects/kpma.png',
